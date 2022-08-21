@@ -15,11 +15,11 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-UI animations
+* UI animations
 
 The following **additional** features are implemented:
 
-Split Bill Functionality
+* Split Bill Functionality
 
 ## Video Walkthrough
 
